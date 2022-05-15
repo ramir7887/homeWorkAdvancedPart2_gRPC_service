@@ -1,0 +1,19 @@
+{
+  "id": "f3fff8d9-66f2-4524-bb76-43319f0db509",
+  "importStreams": [
+    {
+      "id": "09d2e66d-8000-4708-87b5-bb6c89190c60",
+      "name": "proto-file",
+      "importerName": "ProtoFile",
+      "createMissingOperations": true,
+      "options": {
+        "files": [
+          "../internal/pb/delivery.proto"
+        ],
+        "importPaths": []
+      }
+    }
+  ],
+  "authConfigs": [],
+  "certificates": []
+}

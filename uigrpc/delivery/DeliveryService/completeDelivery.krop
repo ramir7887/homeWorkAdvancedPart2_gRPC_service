@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "delivery.DeliveryService.completeDelivery"
+  },
+  "requests": [
+    {
+      "location": "completeDelivery-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

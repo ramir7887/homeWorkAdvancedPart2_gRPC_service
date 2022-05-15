@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "delivery.DeliveryService.getDelivery"
+  },
+  "requests": [
+    {
+      "location": "getDelivery-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}
