@@ -10,7 +10,7 @@
 
 В папке uigrpc есть файлы проекта для Kreya.
 
-protofile: https://gitlab.com/dive-into-golang-course/r_r_abdulov/homework_advanced_part2_proto
+protofile: https://github.com/ramir7887/homeWorkAdvancedPart2_proto
 
 Команда для генирации:
 
